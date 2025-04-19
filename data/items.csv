@@ -1,0 +1,101 @@
+id,title,description,price,location
+1,Sword of Valor,A legendary sword with magical powers,150,JO
+2,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+3,Potion of Healing,Restores health completely over 5 seconds,20,JO
+4,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+5,Ring of Invisibility,Grants temporary invisibility,75,JO
+6,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+7,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+8,Boots of Speed,Increases movement speed significantly,85,SA
+9,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+10,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
+11,Sword of Valor,A legendary sword with magical powers,155,JO
+12,Shield of Aegis,An indestructible shield imbued with ancient runes,125,SA
+13,Potion of Healing,Restores health completely over 5 seconds,22,JO
+14,Mystic Wand,Casts powerful spells to defeat foes,210,SA
+15,Ring of Invisibility,Grants temporary invisibility,80,JO
+16,Helmet of Courage,Boosts defense and confidence in battle,100,SA
+17,Armor of Fortitude,Provides excellent protection against attacks,260,JO
+18,Boots of Speed,Increases movement speed significantly,90,SA
+19,Gloves of Dexterity,Enhances manual dexterity and accuracy,65,JO
+20,Cape of Shadows,Allows the wearer to blend into the darkness,115,SA
+21,Sword of Valor,A legendary sword with magical powers,150,JO
+22,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+23,Potion of Healing,Restores health completely over 5 seconds,20,JO
+24,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+25,Ring of Invisibility,Grants temporary invisibility,75,JO
+26,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+27,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+28,Boots of Speed,Increases movement speed significantly,85,SA
+29,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+30,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
+31,Sword of Valor,A legendary sword with magical powers,152,JO
+32,Shield of Aegis,An indestructible shield imbued with ancient runes,122,SA
+33,Potion of Healing,Restores health completely over 5 seconds,21,JO
+34,Mystic Wand,Casts powerful spells to defeat foes,205,SA
+35,Ring of Invisibility,Grants temporary invisibility,77,JO
+36,Helmet of Courage,Boosts defense and confidence in battle,98,SA
+37,Armor of Fortitude,Provides excellent protection against attacks,255,JO
+38,Boots of Speed,Increases movement speed significantly,88,SA
+39,Gloves of Dexterity,Enhances manual dexterity and accuracy,62,JO
+40,Cape of Shadows,Allows the wearer to blend into the darkness,112,SA
+41,Sword of Valor,A legendary sword with magical powers,150,JO
+42,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+43,Potion of Healing,Restores health completely over 5 seconds,20,JO
+44,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+45,Ring of Invisibility,Grants temporary invisibility,75,JO
+46,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+47,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+48,Boots of Speed,Increases movement speed significantly,85,SA
+49,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+50,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
+51,Sword of Valor,A legendary sword with magical powers,153,JO
+52,Shield of Aegis,An indestructible shield imbued with ancient runes,123,SA
+53,Potion of Healing,Restores health completely over 5 seconds,21,JO
+54,Mystic Wand,Casts powerful spells to defeat foes,202,SA
+55,Ring of Invisibility,Grants temporary invisibility,76,JO
+56,Helmet of Courage,Boosts defense and confidence in battle,97,SA
+57,Armor of Fortitude,Provides excellent protection against attacks,253,JO
+58,Boots of Speed,Increases movement speed significantly,87,SA
+59,Gloves of Dexterity,Enhances manual dexterity and accuracy,61,JO
+60,Cape of Shadows,Allows the wearer to blend into the darkness,111,SA
+61,Sword of Valor,A legendary sword with magical powers,150,JO
+62,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+63,Potion of Healing,Restores health completely over 5 seconds,20,JO
+64,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+65,Ring of Invisibility,Grants temporary invisibility,75,JO
+66,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+67,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+68,Boots of Speed,Increases movement speed significantly,85,SA
+69,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+70,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
+71,Sword of Valor,A legendary sword with magical powers,151,JO
+72,Shield of Aegis,An indestructible shield imbued with ancient runes,121,SA
+73,Potion of Healing,Restores health completely over 5 seconds,20.5,JO
+74,Mystic Wand,Casts powerful spells to defeat foes,201,SA
+75,Ring of Invisibility,Grants temporary invisibility,75.5,JO
+76,Helmet of Courage,Boosts defense and confidence in battle,96,SA
+77,Armor of Fortitude,Provides excellent protection against attacks,251,JO
+78,Boots of Speed,Increases movement speed significantly,86,SA
+79,Gloves of Dexterity,Enhances manual dexterity and accuracy,60.5,JO
+80,Cape of Shadows,Allows the wearer to blend into the darkness,110.5,SA
+81,Sword of Valor,A legendary sword with magical powers,150,JO
+82,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+83,Potion of Healing,Restores health completely over 5 seconds,20,JO
+84,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+85,Ring of Invisibility,Grants temporary invisibility,75,JO
+86,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+87,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+88,Boots of Speed,Increases movement speed significantly,85,SA
+89,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+90,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
+91,Sword of Valor,A legendary sword with magical powers,150,JO
+92,Shield of Aegis,An indestructible shield imbued with ancient runes,120,SA
+93,Potion of Healing,Restores health completely over 5 seconds,20,JO
+94,Mystic Wand,Casts powerful spells to defeat foes,200,SA
+95,Ring of Invisibility,Grants temporary invisibility,75,JO
+96,Helmet of Courage,Boosts defense and confidence in battle,95,SA
+97,Armor of Fortitude,Provides excellent protection against attacks,250,JO
+98,Boots of Speed,Increases movement speed significantly,85,SA
+99,Gloves of Dexterity,Enhances manual dexterity and accuracy,60,JO
+100,Cape of Shadows,Allows the wearer to blend into the darkness,110,SA
