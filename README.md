@@ -18,7 +18,6 @@ virtualenv -p python env
 
 #### create `.env` file:
 - refer to **.env.example** how to create your .env variables.
-- additionally: the response email will contain the secrets to create JWT.
 
 **optionally use docker**
 Run the application using docker (Make sure you have Docker and docker compose on your machine):
@@ -34,13 +33,13 @@ docker-compose up -d --build
 
 #### migrations:
 ```bash
-./mange.py makemigrations
-./mange.py migrate
+./manage.py makemigrations
+./manage.py migrate
 ```
 **Note: if you encounter issue with migrations explicitly migrate store and core apps**
 ```bash
-./mange.py makemigrations core store
-./mange.py migrate
+./manage.py makemigrations core store
+./manage.py migrate
 ```
 
 #### create customer:
