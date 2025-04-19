@@ -20,8 +20,9 @@ services:
       context: .
       dockerfile: Dockerfile
     command: >
-      sh -c "python manage.py migrate &&
-         python manage.py create_admin &&
+      sh -c "python manage.py makemigrations core store &&
+         python manage.py migrate  &&
+         python manage.py create_customer &&
          python manage.py import_games &&
          python manage.py runserver 0.0.0.0:8000"
     volumes:
