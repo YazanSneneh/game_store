@@ -3,7 +3,7 @@
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/YazanSneneh/games_store.git
+git clone https://github.com/YazanSneneh/game_store.git
 cd game_store
 ```
 ### Setting up manually
