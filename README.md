@@ -1,65 +1,69 @@
-# Setting Up the Project
+# Game Store Backend
+A Django-based backend application for managing a digital game store.
 
+### Tech Stack:
+- 
+### Project Setting up
 ### Clone the Repository:
 
 ```bash
 git clone https://github.com/YazanSneneh/game_store.git
 cd game_store
 ```
-### Setting up manually
-#### Create & run virtualenv
+
+#### Set Up Virtual Environment
 ```bash
 pip install virtualenv   # if virtualenv not installed on your machine
 virtualenv -p python env
 . env/bin/activate  # Linux/Mac
 . env\Scripts\activate     # Windows
 ```
-#### create a Database to store data
-
-#### create `.env` file:
-- refer to **.env.example** how to create your .env variables.
-
-**optionally use docker**
-Run the application using docker (Make sure you have Docker and docker compose on your machine):
-
-```bash
-docker-compose up -d --build
-```
-
-- **Go to Postman to or continue manually**
 
 #### install dependencies
 `pip install -r requirements.txt`
 
-#### migrations:
-```bash
-./manage.py makemigrations
-./manage.py migrate
-```
-**Note: if you encounter issue with migrations explicitly migrate store and core apps**
-```bash
-./manage.py makemigrations core store
-./manage.py migrate
-```
-
-#### create customer:
-` ./manage.py create_customer`
-
-####  import games:
-` ./manage.py import_games`
-
-## Use Pytest to run unit test
-To test everything is okay and working as expected Make sure your virtual environment is activated.
+## Run Unit Tests
+Ensure virtualenv is active.
 
 **Run Command in terminal:**
 ``` bash
 pytest -v
 ```
 
+#### create `.env` file:
+- refer to **.env.example** how to create your .env variables.
+
+#### create a Database to store data
+- it's important step so the application be able to run migrations
+- runnning migrations:
+
+```bash
+./manage.py makemigrations
+./manage.py migrate
+```
+
+**Note: if you encounter issue with migrations explicitly migrate store and core apps**
+
+```bash
+./manage.py makemigrations core store
+```
+
+##### Seeds:
+` ./manage.py create_customer`
+` ./manage.py import_games`
+
+**Running with docker**
+Run the application using docker (Make sure you have Docker on your machine):
+
+```bash
+docker-compose up -d --build
+```
+
+## API Testing with Postman
 ### Using Postman to test the API
 # Postman Collection
 
-You can test the API using the Postman collection and environment files included in this project.
+Test the API using the Postman collection and environment files included in this project.
 - Collection file: [`postman/GameStore.postman_collection.json`](postman/GameStore.postman_collection.json)
 - Environment file: [`postman/GameStore.postman_environment.json`](postman/GameStore.postman_environment.json)
 
