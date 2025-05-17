@@ -2,7 +2,15 @@
 A Django-based backend application for managing a digital game store.
 
 ### Tech Stack:
-- 
+- Language: Python 3.
+- Framework: Django, Django REST Framework (DRF).
+- Database: PostgreSQL.
+- Authentication: JWT (JSON Web Tokens).
+- Containerization: Docker, Docker Compose.
+- Testing: Pytest.
+- Environment Management: virtualenv + .env files.
+- API Testing: Postman.
+
 ### Project Setting up
 ### Clone the Repository:
 
@@ -21,14 +29,6 @@ virtualenv -p python env
 
 #### install dependencies
 `pip install -r requirements.txt`
-
-## Run Unit Tests
-Ensure virtualenv is active.
-
-**Run Command in terminal:**
-``` bash
-pytest -v
-```
 
 #### create `.env` file:
 - refer to **.env.example** how to create your .env variables.
@@ -52,7 +52,15 @@ pytest -v
 ` ./manage.py create_customer`
 ` ./manage.py import_games`
 
-**Running with docker**
+## Run Unit Tests
+Ensure virtualenv is active.
+
+##### Run Command in terminal:
+``` bash
+pytest -v
+```
+
+#### Running with docker
 Run the application using docker (Make sure you have Docker on your machine):
 
 ```bash
